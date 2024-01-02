@@ -1,0 +1,20 @@
+{
+  "name": "7.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sorry, name can only contain URL-friendly characters and name can no longer contain capital letters."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
